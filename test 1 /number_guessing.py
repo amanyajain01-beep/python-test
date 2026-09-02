@@ -57,6 +57,3 @@ if guess > secret_num :
 else: 
     print("higher")   
 
-
-
-    
